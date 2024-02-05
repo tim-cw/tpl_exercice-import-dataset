@@ -23,6 +23,7 @@ article {
     height: 100%;
     cursor: pointer;
     overflow: hidden;
+    position: relative;
     width: 100%;
     display: grid;
     place-items: center;
@@ -30,6 +31,16 @@ article {
 
     &:hover {
         transform: scale(1.05);
+    }
+
+    h2 {
+        color: var(--color-bg-primary);
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        padding: 0 20px;
+        width: 100%;
+        text-align: right;
     }
 
     img {
