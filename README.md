@@ -9,3 +9,7 @@ Nous expérimenterons aussi avec les attributs `data`. Un élément HTML peut en
 ## CONSIGNES DE L'EXERCICE
 
 Le professeur codera ce premier exercice avec vous et vous donnera une tonne d'explications pertinentes. Écoutez bien et prenez des notes au besoin. 😃
+
+<br><br><br><hr>
+Préparé par : Matthieu Parent et Jean-François Leblanc  
+_timtools v1.4.1_
